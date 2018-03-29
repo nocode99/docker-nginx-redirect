@@ -21,3 +21,5 @@ logs for the process.
 * I am primarily using this to redirect subdomains to a new URL. That means
     it will *not* append the request_uri.  So domain.com/my_request_uri would
     only redirect to `REDIRECT_URL` and NOT `REDIRECT_URL/my_request_uri`.
+
+Author: Byron Kim
